@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PIYUSH PAIKROY
-- 👀 I’m interested in web development,app development,ml/ai,robotics
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in web development and devops
+- 🌱 I’m currently contributing to open source
 
 <!---
 pcode78roy/pcode78roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
